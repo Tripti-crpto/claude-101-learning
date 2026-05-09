@@ -15,9 +15,9 @@ I am exploring how AI tools can improve productivity, analytics, and problem-sol
 ## Learning Progress
 - [x] What is Claude?
 - [x] First conversation with Claude
-- [ ] Getting better results
-- [ ] Creating with artifacts
-- [ ] Working with skills
+- [x] Getting better results
+- [x] Creating with artifacts
+- [x] Working with skills
 
 ## Tools
 - Claude AI
