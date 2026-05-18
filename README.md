@@ -1,24 +1,27 @@
-# Claude 101 Learning Journey
+# 🤖 Claude 101 Learning Journey
 
-Currently learning Generative AI and Prompt Engineering through Anthropic Academy's Claude 101 course.
+## 📚 About This Repository
+This repository documents my learning journey with **Claude 101** - exploring AI fundamentals, prompt engineering, and practical applications with Anthropic's Claude AI.
 
-## Topics I'm Exploring
+## 📖 Topics I'm Exploring
 - Prompt Engineering
 - AI Collaboration
 - Context-based prompting
 - Generative AI fundamentals
 - AI productivity workflows
 
-## Why I'm Learning This
+## 🎯 Why I'm Learning This
 I am exploring how AI tools can improve productivity, analytics, and problem-solving workflows.
 
-## Learning Progress
+## 📈 Learning Progress
 - [x] What is Claude?
-- [x] First conversation with Claude
-- [x] Getting better results
-- [x] Creating with artifacts
-- [x] Working with skills
+- [x] Basic Prompt Techniques
+- [x] Advanced Prompting
+- [x] API Integration
+- [x] Building AI Workflows
 
-## Tools
-- Claude AI
-- GitHub
+## 🔗 Resources
+- [Claude Official Docs](https://claude.ai)
+- [Anthropic Academy](https://www.anthropic.com/)
+
+---
